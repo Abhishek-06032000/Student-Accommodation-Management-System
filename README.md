@@ -1,1 +1,1 @@
-# Student-Accommodation-Management-System
+Student Accommodation Management System
